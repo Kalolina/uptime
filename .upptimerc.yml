@@ -11,6 +11,14 @@ sites:
     url: https://pro.kalolina.com
   - name: Kalolina SSO
     url: https://sso.kalolina.com
+    
+ sites:
+  - name: BZTraveler-Com
+    url: https://bztraveler.com
+  - name: BZTraveler-Net
+    url: https://bztraveler.net
+  - name: BZBizzy
+    url: https://bzbizzy.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,6 +34,7 @@ status-website:
       href: https://kalolina.github.io/uptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
