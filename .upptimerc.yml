@@ -12,14 +12,6 @@ sites:
   - name: Kalolina SSO
     url: https://sso.kalolina.com
     
- sites:
-  - name: BZTraveler-Com
-    url: https://bztraveler.com
-  - name: BZTraveler-Net
-    url: https://bztraveler.net
-  - name: BZBizzy
-    url: https://bzbizzy.com
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
