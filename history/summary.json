@@ -58,7 +58,7 @@
     "url": "https://sso.kalolina.com",
     "icon": "https://favicons.githubusercontent.com/sso.kalolina.com",
     "slug": "kalolina-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 742,
     "timeMonth": 742,
     "timeYear": 742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   },
   {
     "name": "Kalolina Status Page",
