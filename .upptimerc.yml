@@ -19,7 +19,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://hub.kalolina.com/uploads/company/63d12bba56ef7cbe30e43a03f999f016.png
+  logoUrl: https://hub.kalolina.com/media/public/kalolina-logo.svg
   name: Kalolina Uptime
   introTitle: "**Kalolina LLC Status Page** monitors website availability and response times."
   introMessage: Additional information can be found at [Kalolina Hub](https://hub.kalolina.com)
