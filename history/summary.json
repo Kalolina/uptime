@@ -58,19 +58,19 @@
     "url": "https://sso.kalolina.com",
     "icon": "https://favicons.githubusercontent.com/sso.kalolina.com",
     "slug": "kalolina-sso",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 718,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 737,
+    "timeDay": 709,
+    "timeWeek": 737,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2022-04-12": 0
+      "2022-04-12": 12
     }
   },
   {
