@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1571,
-    "timeDay": 1519,
+    "timeDay": 1517,
     "timeWeek": 1571,
     "timeMonth": 1571,
     "timeYear": 1571,
@@ -40,18 +40,20 @@
     "url": "https://pro.kalolina.com",
     "icon": "https://favicons.githubusercontent.com/pro.kalolina.com",
     "slug": "kalolina-email",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1592,
-    "timeDay": 1538,
+    "timeDay": 1577,
     "timeWeek": 1592,
     "timeMonth": 1592,
     "timeYear": 1592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Kalolina SSO",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 742,
-    "timeDay": 715,
+    "timeDay": 707,
     "timeWeek": 742,
     "timeMonth": 742,
     "timeYear": 742,
@@ -76,17 +78,19 @@
     "url": "https://status.kalolina.com",
     "icon": "https://favicons.githubusercontent.com/status.kalolina.com",
     "slug": "kalolina-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 990,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
-    "dailyMinutesDown": {}
+    "time": 1551,
+    "timeDay": 1939,
+    "timeWeek": 1551,
+    "timeMonth": 1551,
+    "timeYear": 1551,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   }
 ]
