@@ -4,17 +4,17 @@
     "url": "https://kalolina.com",
     "icon": "https://favicons.githubusercontent.com/kalolina.com",
     "slug": "kalolina-llc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "95.60%",
+    "uptimeDay": "95.59%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 1625,
-    "timeDay": 1292,
-    "timeWeek": 1532,
-    "timeMonth": 1625,
-    "timeYear": 1625,
+    "time": 1581,
+    "timeDay": 1115,
+    "timeWeek": 1437,
+    "timeMonth": 1581,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2022-04-21": 63
     }
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/sso.kalolina.com",
     "slug": "kalolina-sso",
     "status": "down",
-    "uptime": "96.79%",
-    "uptimeDay": "65.02%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
+    "uptime": "95.24%",
+    "uptimeDay": "47.30%",
+    "uptimeWeek": "92.47%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
     "time": 742,
     "timeDay": 670,
     "timeWeek": 749,
     "timeMonth": 742,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2022-04-21": 504
+      "2022-04-21": 759
     }
   },
   {
