@@ -26,19 +26,19 @@
     "url": "https://hub.kalolina.com",
     "icon": "https://favicons.githubusercontent.com/hub.kalolina.com",
     "slug": "kalolina-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 1045,
-    "timeWeek": 1088,
-    "timeMonth": 1112,
-    "timeYear": 1278,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1274,
+    "timeDay": 1053,
+    "timeWeek": 1084,
+    "timeMonth": 1110,
+    "timeYear": 1274,
     "dailyMinutesDown": {
-      "2022-05-27": 0
+      "2022-05-27": 15
     }
   },
   {
